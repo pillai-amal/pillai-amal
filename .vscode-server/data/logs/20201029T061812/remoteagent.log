@@ -1,0 +1,27 @@
+[2020-10-29 06:18:13.295] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-10-29 06:18:13.295] [remoteagent] [info] Extension host agent started.
+[2020-10-29 06:18:13.554] [remoteagent] [info] [::ffff:127.0.0.1][68e502e8][ManagementConnection] New connection established.
+[2020-10-29 06:18:13.558] [remoteagent] [info] [::ffff:127.0.0.1][8fa2bde4][ExtensionHostConnection] New connection established.
+[2020-10-29 06:18:14.910] [remoteagent] [info] [::ffff:127.0.0.1][8fa2bde4][ExtensionHostConnection] <95> Launched Extension Host Process.
+[2020-10-29 22:46:28.702] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2020-10-29 22:46:53.527] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools undefined
+[2020-10-29 22:46:54.697] [remoteagent] [info] Extracted extension to /home/pillai-amal/.vscode-server/extensions/.ms-vscode.cpptools-1.0.1: ms-vscode.cpptools
+[2020-10-29 22:46:54.721] [remoteagent] [info] Renamed to /home/pillai-amal/.vscode-server/extensions/ms-vscode.cpptools-1.0.1
+[2020-10-29 22:46:55.703] [remoteagent] [info] Installation completed. ms-vscode.cpptools
+[2020-10-29 22:46:55.713] [remoteagent] [info] Extensions installed successfully: ms-vscode.cpptools
+[2020-10-29 22:49:02.584] [remoteagent] [info] [::ffff:127.0.0.1][d76c4d38][ManagementConnection] New connection established.
+[2020-10-29 22:49:02.589] [remoteagent] [info] [::ffff:127.0.0.1][ada44c6a][ExtensionHostConnection] New connection established.
+[2020-10-29 22:49:02.644] [remoteagent] [info] [::ffff:127.0.0.1][ada44c6a][ExtensionHostConnection] <643> Launched Extension Host Process.
+[2020-10-29 22:49:28.604] [remoteagent] [info] [::ffff:127.0.0.1][d76c4d38][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-10-29 22:49:29.835] [remoteagent] [info] [::ffff:127.0.0.1][ada44c6a][ExtensionHostConnection] <643> Extension Host Process exited with code: 0, signal: null.
+[2020-10-29 22:51:42.118] [remoteagent] [info] [::ffff:127.0.0.1][68e502e8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-10-29 22:51:43.172] [remoteagent] [info] [::ffff:127.0.0.1][8fa2bde4][ExtensionHostConnection] <95> Extension Host Process exited with code: 0, signal: null.

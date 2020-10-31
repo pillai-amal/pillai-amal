@@ -1,0 +1,18 @@
+[2020-10-29 06:18:19.872] [exthost] [info] extension host started
+[2020-10-29 06:18:19.923] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onDebugDynamicConfigurations"}
+[2020-10-29 06:18:19.924] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pillai-amal/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/ms-vscode.js-debug/src/extension.js
+[2020-10-29 06:18:21.656] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-10-29 06:18:21.657] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pillai-amal/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/debug-auto-launch/dist/extension
+[2020-10-29 06:18:21.741] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-10-29 06:18:21.742] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pillai-amal/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/emmet/dist/node/emmetNodeMain
+[2020-10-29 06:18:21.854] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-10-29 06:18:21.854] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pillai-amal/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/git/dist/main
+[2020-10-29 06:18:22.131] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-10-29 06:18:22.131] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pillai-amal/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/merge-conflict/dist/mergeConflictMain
+[2020-10-29 06:18:22.597] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-10-29 06:18:22.597] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pillai-amal/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/search-result/dist/extension.js
+[2020-10-29 06:18:23.580] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-10-29 06:18:23.581] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pillai-amal/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/github/dist/extension.js
+[2020-10-29 06:18:23.775] [exthost] [info] eager extensions activated
+[2020-10-29 22:46:57.013] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"*"}
+[2020-10-29 22:46:57.014] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pillai-amal/.vscode-server/extensions/ms-vscode.cpptools-1.0.1/dist/main
