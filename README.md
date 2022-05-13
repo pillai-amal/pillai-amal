@@ -1,7 +1,7 @@
 ### Welcome to my profile 👋
+My path so far : :)
 
-"""Jack of All Trades""". 
-Self taught Python programmer.  
+Mechanical Engineering -> Finance -> More Mechanical Engineering + Programming -> Software Engineering 
 
 
 - 🔭 I’m currently working on technical analyis using python, and quants in general 
