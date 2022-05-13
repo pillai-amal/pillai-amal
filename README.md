@@ -1,4 +1,7 @@
 ### Welcome to my profile 👋
+
+System Engineer @ Infosys Ltd
+
 My path so far : :)
 
 Mechanical Engineering -> Finance -> More Mechanical Engineering + Programming -> Software Engineering 
